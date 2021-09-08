@@ -1,0 +1,16 @@
+.searchBox {
+  height: 56%;
+  width: 54%;
+  box-sizing: border-box;
+  margin: 0;
+  padding-left: 1rem;
+  opacity: 0.5;
+}
+
+.topBar {
+  border: 1px solid rgba(8, 7, 7, 0.151);
+}
+
+.mat-toolbar {
+  background: white;
+}
